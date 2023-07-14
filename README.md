@@ -1,1 +1,4 @@
-# TFTPY_Flavio_Carlos
+# tftpy07
+
+A TFTP client developed in Python.
+
